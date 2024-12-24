@@ -32,6 +32,11 @@ Hacker Timer es una aplicación desarrollada en Python con PyQt5 que simula un t
 Mira este videotutorial para ver Hacker Timer en acción:
 [Ver videotutorial](https://www.youtube.com/watch?v=NsxmHdBRT2Q)
 
+## Capturas de pantalla instalación
+![Xocopop en acción](Descargar.JPG)
+![Xocopop en acción](Descargar1.JPG)
+![Xocopop en acción](Descarga3.JPG)
+
 ## Contribuciones
 Las contribuciones son bienvenidas. Realiza un fork del repositorio y envía tus pull requests.
 
